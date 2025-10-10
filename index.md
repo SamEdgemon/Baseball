@@ -1,16 +1,12 @@
-**Calculating Baseball’s Slash Stats (and OPS) with SAS: A Tribute to the Game’s First Data Analyst**
+# Baseball Analytics Series
 
+Welcome to my Baseball Analytics series! Each post includes data, code, and workflow details.
 
+## Blog Posts
 
-Baseball fans today live by the “slash line” — that set of numbers showing a player’s **batting average**, **on-base percentage**, and **slugging percentage**. You’ll see it in every broadcast and box score:
-
-
-
-&nbsp;	.300 / .400 / .500
-
-
-
-It looks simple, but behind it lies a story that stretches back more than 160 years  to one Englishman with a notebook, a sharp mind for numbers, and a deep love for a new American game.
+- [Blog 1: Calculating Baseball’s Slash Stats](Blog1_SlashStats/)
+- [Blog 2: Creating Baseball Card Stats](Blog2_BaseballCardStats/)
+- [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/)
 
 
 
