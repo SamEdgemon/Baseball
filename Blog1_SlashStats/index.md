@@ -55,7 +55,7 @@ The data used can be downloade [here](https://samedgemon.github.io/Baseball/Blog
 
 The data used can be downloaded [here](data/BattingExtract.csv).-->
 
-The data used can be downloaded [here](../data/BattingExtract.csv)
+The data used can be downloaded [here](../Data/BattingExtract.csv)
 
 
 
@@ -124,3 +124,4 @@ And in that way, every analyst who writes code is a little bit like Henry Chadwi
 
 
 [def]: https://samedgemon.github.io/Baseball/Blog1_SlashStats/data/BattingExtract.csv
+
