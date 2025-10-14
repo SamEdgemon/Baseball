@@ -9,6 +9,7 @@ It looks simple, but behind it lies a story that stretches back more than 160 ye
 
 
 
+
 ## The First Data Analyst in Baseball History
 Long before Moneyball or Statcast, **Henry Chadwick** was collecting baseball data by hand. Born in England in 1824, Chadwick moved to the United States as a teenager and began his career covering cricket. In the 1850s, he discovered baseball and was instantly hooked.
 
@@ -20,6 +21,7 @@ Example; An Early Box Score
 
 
 Chadwick also introduced the **Batting Average** — giving baseball its first true performance metric. His innovations made baseball measurable.
+
 
 
 
@@ -123,6 +125,7 @@ And in that way, every analyst who writes code is a little bit like Henry Chadwi
 
 
 [def]: https://samedgemon.github.io/Baseball/Blog1_SlashStats/data/BattingExtract.csv
+
 
 
 
