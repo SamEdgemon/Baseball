@@ -20,9 +20,7 @@ Example; An Early Box Score
 ![Box Score](https://samedgemon.github.io/Baseball/Blog1_SlashStats/Images/HenryChadwickBoxScore.jpg)
 
 
-Chadwick also introduced the **Batting Average** — giving baseball its first true performance metric. His innovations made baseball measurable.
-
-
+Chadwick also introduced the **Batting Average** — giving baseball its first true performance metric. His innovations made baseball measurable. <br><br>
 
 
 ## From Box Scores to Slash Lines
@@ -39,7 +37,7 @@ Together, BA / OBP / SLG form the **slash line** — and OPS ties them into one 
 
 If Chadwick’s box score was the seed, the slash line is the modern tree that grew from it.
 
-When Chadwick was creating box scores and calculating batting averages it was with a very manual process. Today we have data and programing languages like SAS to help us accomplish the slash line. Let’s do that!
+When Chadwick was creating box scores and calculating batting averages it was with a very manual process. Today we have data and programing languages like SAS to help us accomplish the slash line. Let’s do that! <br><br>
 
 
 ## Calculating the Slash Line in SAS
@@ -108,8 +106,7 @@ Results. The Top 10 Batting Averages Since 1970
 
 
 
-For those that want to recreate my entire process, I’ve included my workflow with more extensive details.. 
-
+For those that want to recreate my entire process, I’ve included my workflow with more extensive details. <br><br>
 
 
 ## Why Henry Chadwick Matters
@@ -118,13 +115,13 @@ When Henry Chadwick started keeping score, he wasn’t just documenting baseball
 
 Every slash line, OPS leaderboard, and advanced stat we use today still traces back to Chadwick’s simple insight: Numbers can tell the story of the game.
 
-And in that way, every analyst who writes code is a little bit like Henry Chadwick — building on his dream of making baseball understandable through data.
+And in that way, every analyst who writes code is a little bit like Henry Chadwick — building on his dream of making baseball understandable through data. <br><br>
 
 
 **Next up**: We’ll take what we’ve learned here and recreate a classic Hank Aaron baseball card — complete with his full slash line and OPS.
 
 
-[def]: https://samedgemon.github.io/Baseball/Blog1_SlashStats/data/BattingExtract.csv
+
 
 
 
