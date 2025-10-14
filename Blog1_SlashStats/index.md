@@ -49,14 +49,6 @@ I’m using SAS Workbench to process my data and calculate the metrics. The work
 Learners can gain access (with your academic email address) to SAS Workbench [here](https://www.sas.com/en_us/software/viya-workbench-for-learners.html).
 
 
-<!--The data used can be downloaded [here][def].
-
-The data used can be downloaded [here](https://samedgemon.github.io/Baseball/Blog1_SlashStats/Data/BattingExtract.csv)
-
-The data used can be downloaded [here](data/BattingExtract.csv).-->
-
-The data used can be downloaded [here](../Data/BattingExtract.csv)
-
 The data used can be downloaded [here](https://samedgemon.github.io/Baseball/Blog1_SlashStats/Data/BattingExtract.csv)
 
 
@@ -126,5 +118,6 @@ And in that way, every analyst who writes code is a little bit like Henry Chadwi
 
 
 [def]: https://samedgemon.github.io/Baseball/Blog1_SlashStats/data/BattingExtract.csv
+
 
 
