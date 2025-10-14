@@ -103,7 +103,7 @@ Results. The Top 10 Batting Averages Since 1970
 
 
 
-For those that want to recreate my entire process, I’ve included my workflow with more extensive details.. 
+For those that want to recreate my entire process, I’ve included my workflow with more extensive details. 
 
 
 ## Why Henry Chadwick Matters
@@ -118,6 +118,7 @@ And in that way, every analyst who writes code is a little bit like Henry Chadwi
 
 
 [def]: https://samedgemon.github.io/Baseball/Blog1_SlashStats/data/BattingExtract.csv
+
 
 
 
