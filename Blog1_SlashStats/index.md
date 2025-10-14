@@ -8,6 +8,7 @@ You’ll see it in every broadcast and box score: .300 / .400 / .500
 It looks simple, but behind it lies a story that stretches back more than 160 years to one Englishman with a notebook, a sharp mind for numbers, and a deep love for a new American game.
 
 
+
 ## The First Data Analyst in Baseball History
 Long before Moneyball or Statcast, **Henry Chadwick** was collecting baseball data by hand. Born in England in 1824, Chadwick moved to the United States as a teenager and began his career covering cricket. In the 1850s, he discovered baseball and was instantly hooked.
 
@@ -19,6 +20,7 @@ Example; An Early Box Score
 
 
 Chadwick also introduced the **Batting Average** — giving baseball its first true performance metric. His innovations made baseball measurable.
+
 
 
 ## From Box Scores to Slash Lines
@@ -36,6 +38,7 @@ Together, BA / OBP / SLG form the **slash line** — and OPS ties them into one 
 If Chadwick’s box score was the seed, the slash line is the modern tree that grew from it.
 
 When Chadwick was creating box scores and calculating batting averages it was with a very manual process. Today we have data and programing languages like SAS to help us accomplish the slash line. Let’s do that!
+
 
 ## Calculating the Slash Line in SAS
 
@@ -106,6 +109,7 @@ Results. The Top 10 Batting Averages Since 1970
 For those that want to recreate my entire process, I’ve included my workflow with more extensive details.. 
 
 
+
 ## Why Henry Chadwick Matters
 
 When Henry Chadwick started keeping score, he wasn’t just documenting baseball — he was translating a game into data. He made performance measurable, trends visible, and debate possible.
@@ -114,10 +118,12 @@ Every slash line, OPS leaderboard, and advanced stat we use today still traces b
 
 And in that way, every analyst who writes code is a little bit like Henry Chadwick — building on his dream of making baseball understandable through data.
 
+
 **Next up**: We’ll take what we’ve learned here and recreate a classic Hank Aaron baseball card — complete with his full slash line and OPS.
 
 
 [def]: https://samedgemon.github.io/Baseball/Blog1_SlashStats/data/BattingExtract.csv
+
 
 
 
