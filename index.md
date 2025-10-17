@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Baseball Analytics Series
 
 Welcome to my Baseball Analytics series! Each post includes data, code, and workflow details.
