@@ -4,4 +4,8 @@ author: Sam Edgemon
 theme: jekyll-theme-minimal
 show_edit_link: false
 
+include:
+  - assets/css/custom.css
+
+
 
