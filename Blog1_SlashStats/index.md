@@ -49,7 +49,9 @@ I’m using SAS Workbench to process my data and calculate the metrics. The work
 3. Create the slash line using a short data step
 
 
-Learners can gain access (with your academic email address) to SAS Workbench [here](https://www.sas.com/en_us/software/viya-workbench-for-learners.html).
+<!Learners can gain access (with your academic email address) to SAS Workbench [here](https://www.sas.com/en_us/software/viya-workbench-for-learners.html).!>
+Learners can gain access (with your academic email address) to SAS Workbench <a href="https://www.sas.com/en_us/software/viya-workbench-for-learners.html" target="_blank">here</a>.
+
 
 
 The data used can be downloaded [here](https://samedgemon.github.io/Baseball/Blog1_SlashStats/Data/BattingExtract.csv)
@@ -119,6 +121,7 @@ And in that way, every analyst who writes code is a little bit like Henry Chadwi
 
 
 **Next up**: We’ll take what we’ve learned here and recreate a classic Hank Aaron baseball card — complete with his full slash line and OPS.
+
 
 
 
