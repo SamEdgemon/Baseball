@@ -1,5 +1,7 @@
 title: Baseball Analytics Blog
 description: Learn baseball analytics with SAS and historic figures
 author: Sam Edgemon
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
+show_edit_link: false
+
 
