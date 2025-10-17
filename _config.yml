@@ -1,1 +1,5 @@
-jekyll-theme-minimal
+title: Baseball Analytics Blog
+description: Learn baseball analytics with SAS and historic figures
+author: Sam Edgemon
+theme: jekyll-theme-architect
+
