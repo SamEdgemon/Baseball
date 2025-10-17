@@ -1,13 +1,9 @@
-/* Hide the GitHub project link in the sidebar */
-.sidebar .project-link {
-/* Hide the GitHub link in the sidebar */
-.project-link {
-    display: none;
+/* Hide "View the project on GitHub" link */
+footer a[href*="github.com"] {
+  display: none !important;
 }
 
-/* Hide the "maintained by" text in the sidebar */
-.sidebar .maintainer {
-/* Hide the maintainer line in the sidebar */
-.maintainer {
-    display: none;
+/* Hide the maintainer line */
+footer p {
+  display: none !important;
 }
