@@ -1,1 +1,10 @@
+/* Hide the GitHub project link in the sidebar */
+.sidebar .project-link {
+    display: none;
+}
+
+/* Hide the "maintained by" text in the sidebar */
+.sidebar .maintainer {
+    display: none;
+}
 
