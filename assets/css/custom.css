@@ -1,11 +1,38 @@
-/* Hide the GitHub link in the sidebar */
-.project-link {
-    display: none;
+/* General spacing for readability */
+h1, h2, h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
-/* Hide the maintainer line in the sidebar */
-.maintainer {
-    display: none;
+/* Space paragraphs */
+p {
+    margin-bottom: 1em;
 }
+
+/* Optional: style code blocks */
+pre {
+    background-color: #f5f5f5;
+    padding: 1em;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+/* Optional: style tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
 
 
