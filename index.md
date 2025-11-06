@@ -2,7 +2,14 @@
 
 # Baseball Analytics 101 with SAS
 
-Welcome to my Baseball Analytics series! Each post includes data, code, and workflow details.
+In this series, you’ll step into the shoes of a data scientist — exploring baseball history, learning SAS and SQL, and turning raw data into insights. Along the way, you’ll:
+
+- **Discover** baseball history through key players, innovators, and moments
+- **Access** and query data from real baseball datasets
+- **Analyze** and visualize data with tables, charts, and graphs
+- **Practice** a full workflow from raw data to actionable insight
+
+By the end, you’ll have **hands-on experience with SAS** and the foundational skills to think and work like a data scientist.
 
 ## Blog Posts
 
@@ -10,6 +17,7 @@ Welcome to my Baseball Analytics series! Each post includes data, code, and work
 - [Blog 1: Calculating Baseball’s Slash Stats](Blog1_SlashStats/)
 - [Blog 2: Creating Baseball Card Stats](Blog2_BaseballCardStats/)
 - [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/)
+
 
 
 
