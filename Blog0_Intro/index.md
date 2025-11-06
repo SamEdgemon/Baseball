@@ -1,15 +1,6 @@
 # Baseball Analytics 101 with SAS
 ## *An Introduction to the Series*
 
-In this series, you’ll step into the shoes of a data scientist — exploring baseball history, learning SAS and SQL, and turning raw data into insights. Along the way, you’ll:
-
-- **Discover** baseball history through key players, innovators, and moments
-- **Access** and query data from real baseball datasets
-- **Analyze** and visualize data with tables, charts, and graphs
-- **Practice** a full workflow from raw data to actionable insight
-
-By the end, you’ll have **hands-on experience with SAS** and the foundational skills to think and work like a data scientist.
-
 **Welcome to Baseball Analytics 101 with SAS!**
 
 If you’ve ever wondered what “analytics” really means — or if this is your first time seeing data science in action — you’ve come to the right place.
@@ -39,12 +30,3 @@ With these tools in hand, you’re ready to follow the workflow, explore the dat
 
 *So grab your glove, open your laptop, and get ready to step up to the plate. 
 Let’s play ball!*
-
-The Tools You’ll Use
-
-- **SAS Workbench** is a cloud-based, on-demand coding environment for data scientists and developers to build advanced models. You can access SAS Workbench [here](https://www.sas.com/en_us/software/viya-workbench-for-learners.html).
-
-- **Lahman Baseball Database** was created by Sean Lahman and contains complete and extensive major league statistics dating back to 1871. It is not necessary to download the full database, as extracts will be provided for you; however, it is available for download [here](https://sabr.org/lahman-database/).
-
-- **SQLite** is a self-contained, serverless, transactional SQL database engine. Like the Lahman Database, it is not necessary to download it for this instructional series, but it is available for download [here](https://sqlite.org/).
-
