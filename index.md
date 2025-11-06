@@ -26,8 +26,11 @@ By the end, you’ll have **hands-on experience with SAS** and the foundational 
 <!-- [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/) -->
 
 <br>
+
 ---
+
 <br>
+
 
 ## The Tools We Use
 
@@ -36,6 +39,7 @@ By the end, you’ll have **hands-on experience with SAS** and the foundational 
 - **Lahman Baseball Database** was created by Sean Lahman and contains complete and extensive major league statistics dating back to 1871. It is not necessary to download the full database, as extracts will be provided for you; however, it is available for download [here](https://sabr.org/lahman-database/).
 
 - **SQLite** is a self-contained, serverless, transactional SQL database engine. Like the Lahman Database, it is not necessary to download it for this instructional series, but it is available for download [here](https://sqlite.org/).
+
 
 
 
