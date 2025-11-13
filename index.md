@@ -1,4 +1,13 @@
-[Home](/Baseball/) | [About](/Baseball/about/) | [Contact](/Baseball/contact/)
+<!-- [Home](/Baseball/) | [About](/Baseball/about/) | [Contact](/Baseball/contact/) -->
+
+<p align="center">
+  <a href="/Baseball/">Home</a> |
+  <a href="/Baseball/about/">About</a> |
+  <a href="/Baseball/contact/">Contact</a>
+</p>
+
+<br>
+
 
 
 <link rel="stylesheet" href="/assets/css/custom.css">
@@ -46,6 +55,7 @@ By the end, you’ll have **hands-on experience with SAS** and the foundational 
 - **Lahman Baseball Database** was created by Sean Lahman and contains complete and extensive major league statistics dating back to 1871. It is not necessary to download the full database, as extracts will be provided for you; however, it is available for download [here](https://sabr.org/lahman-database/).
 
 - **SQLite** is a self-contained, serverless, transactional SQL database engine. Like the Lahman Database, it is not necessary to download it for this instructional series, but it is available for download [here](https://sqlite.org/).
+
 
 
 
