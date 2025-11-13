@@ -4,6 +4,15 @@ author: Sam Edgemon
 theme: jekyll-theme-minimal
 show_edit_link: false
 
+# Custom navigation (you’ll call this in your layout)
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Contact"
+    url: /contact
+
 include:
   - assets/css/custom.css
 
