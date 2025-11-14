@@ -8,6 +8,15 @@ show_downloads: false
 github:
   is_project_page: false
 
+  # Navigation links
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
 
 
 
