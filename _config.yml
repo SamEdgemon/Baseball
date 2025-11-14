@@ -4,14 +4,12 @@ author: Sam Edgemon
 theme: jekyll-theme-cayman
 show_edit_link: false
 
-# Custom navigation (you’ll call this in your layout)
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about
-  - title: "Contact"
-    url: /contact
+show_downloads: false
+github:
+  is_project_page: false
+
+
+
 
 include:
   - assets/css/custom.css
