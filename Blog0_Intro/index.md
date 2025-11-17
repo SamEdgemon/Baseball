@@ -1,4 +1,4 @@
-# An Introduction to the Series
+<!-- # An Introduction to the Series -->
 
 **Welcome to Baseball Analytics 101 with SAS!**
 
