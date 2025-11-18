@@ -33,17 +33,16 @@ But this series is about more than sports — it’s about learning the core ski
 - Accessing and querying data
 - Exploring and preparing raw datasets for analytics
 - Analyzing and visualizing results
-- Turning findings into clear insights and stories
+- Turning findings into actionable insights and data stories
 
-You’ll get hands-on practice using tools such as **SAS, SQL, Python, and R**, working with real sports datasets and real-world workflows.
-
-Along the way, you’ll gain hands-on experience with tools used every day by analysts and data scientists, including **SAS**, **SQL**, **Python**, and **R**. 
+Along the way, you’ll gain hands-on experience with tools used every day by analysts and data scientists, 
+including **SAS**, **SQL**, **Python**, and **R** while working with real sports datasets and real-world workflows. 
 
 ---
 
 ## Blog Posts
 
-A series of blogs will be introduced regarding each sport and will follow 
+A series of blogs will be introduced regarding each sport and will reference the history of the game, data extracts from actual sports data,  
 - The history, context, and key figures of the game  
 - Datasets built from real sports data  
 - Exercises using SQL, SAS, Python, or R  
@@ -56,28 +55,18 @@ A series of blogs will be introduced regarding each sport and will follow
 
 <br>
 
-
-
-Baseball
-
-Coming Soon! Basketball
-
-Coming Soon! Football
-
 ---
 
 ## Resources
 
-SAS Workbench is a cloud-based, on-demand coding environment for data scientists and developers to build advanced models. You can access SAS Workbench here.
+- **SAS Workbench** is a cloud-based, on-demand coding environment for data scientists and developers to build advanced models. You can access SAS Workbench [here](https://www.sas.com/en_us/software/viya-workbench-for-learners.html).
 
-Lahman Baseball Database was created by Sean Lahman and contains complete and extensive major league statistics dating back to 1871. It is not necessary to download the full database, as extracts will be provided for you; however, it is available for download here.
+- **Lahman Baseball Database** was created by Sean Lahman and contains complete and extensive major league statistics dating back to 1871. It is not necessary to download the full database, as extracts will be provided for you; however, it is available for download [here](https://sabr.org/lahman-database/).
 
-SQLite is a self-contained, serverless, transactional SQL database engine. Like the Lahman Database, it is not necessary to download it for this instructional series, but it is available for download here.
-
-Along the way, you’ll gain hands-on experience with tools used every day by analysts and data scientists, including **SAS**, **SQL**, **Python**, and **R**. You’ll follow the workflow professionals use: query data, extract datasets, import them into an analytics environment, and build reports, calculations, tables, and charts.
+- **SQLite** is a self-contained, serverless, transactional SQL database engine. Like the Lahman Database, it is not necessary to download it for this instructional series, but it is available for download [here](https://sqlite.org/).
 
 ---
 
----
+
 
 
