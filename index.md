@@ -12,34 +12,42 @@
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-# Sports Analytics Series
+<!-- # Sports Analytics Series
 
 Learn analytics and data science through the power of sports.
 
 ---
+-->
 
-## Welcome to the Sports Analytics Series
+<!-- ## Welcome to the Sports Analytics Series -->
 
-Welcome to the **Sports Analytics Series** — a learning experience designed to help you think and work like a data scientist, using the world of sports as your training ground.
+**Welcome to the Sports Analytics Series** — a learning experience designed to help you think and work like a data scientist, using the world of sports as your training ground.
 
 If you’ve ever wondered what “analytics” really means — or if this is your first time seeing data science in action — you’re in the right place.
 
----
-
-## Why Sports?
-
 Across this series, we’ll explore how data shapes the way we understand sports:
+how games are played, how players evolve, how decisions are made, and how strategies are built.
 
-- How games are played
-- How players evolve
-- How decisions are made
-- How strategies are built
+But this series is about more than sports — it’s about learning the core skills of analytics:
 
-From **baseball** to **basketball**, **football**, **soccer**, and more, each sport offers rich datasets and powerful stories that make analytics both meaningful and fun.
+- accessing and querying data
+- exploring and preparing raw datasets
+- analyzing and visualizing results
+- turning findings into clear insights and stories
+
+You’ll get hands-on practice using tools such as **SAS, SQL, Python, and R**, working with real sports datasets and real-world workflows.
 
 ---
 
-## What You’ll Learn
+## Choose Your Sport
+
+Baseball
+Coming Soon! Basketball
+Coming Soon! Football
+
+---
+
+## Resources
 
 This series is about more than sports — it’s about learning the core skills of analytics:
 
