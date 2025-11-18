@@ -1,3 +1,17 @@
+<p align="left">
+  <a href="/Baseball/">Home</a>  |
+  <a href="/Baseball/about/">About</a>  |
+  <a href="/Baseball/contact/">Contact</a>  |
+  <a href="/Baseball/baseball/">Baseball</a>
+</p>
+
+<br>
+
+
+
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Sports Analytics Series
 
 Learn analytics and data science through the power of sports.
