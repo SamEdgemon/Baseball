@@ -24,7 +24,7 @@ Exploring sports data, performance, and insights
 ***
 -->
 
-## Baseball Analytics 101 with SAS
+## Sabermetrics with SAS
 
 In this series, you’ll step into the shoes of a data scientist — exploring baseball history, learning SAS and SQL, and turning raw data into insights. 
 
@@ -40,7 +40,7 @@ By the end, you’ll have **hands-on experience with SAS** and the foundational 
 
 ## Blog Posts
 
-- [Blog 0: Introduction to Series](Blog0_Intro/)
+- [Blog 0: Introduction to Series](/baseball/Blog0_Intro/)
 - [Blog 1: Calculating Baseball’s Slash Stats](Blog1_SlashStats/)
 - [Blog 2: Coming Soon! Building Baseball Cards](Blog2_BaseballCardStats/)
 <!-- [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/) -->
