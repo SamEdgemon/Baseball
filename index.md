@@ -30,49 +30,45 @@ how games are played, how players evolve, how decisions are made, and how strate
 
 But this series is about more than sports — it’s about learning the core skills of analytics:
 
-- accessing and querying data
-- exploring and preparing raw datasets
-- analyzing and visualizing results
-- turning findings into clear insights and stories
+- Accessing and querying data
+- Exploring and preparing raw datasets for analytics
+- Analyzing and visualizing results
+- Turning findings into clear insights and stories
 
 You’ll get hands-on practice using tools such as **SAS, SQL, Python, and R**, working with real sports datasets and real-world workflows.
+
+Along the way, you’ll gain hands-on experience with tools used every day by analysts and data scientists, including **SAS**, **SQL**, **Python**, and **R**. 
 
 ---
 
 ## Choose Your Sport
 
+A series of blogs will be introduced regarding each sport: each blog will 
+- The history, context, and key figures of the game  
+- Datasets built from real sports data  
+- Exercises using SQL and SAS Workbench  
+- Visualizations and analytics that bring the numbers to life
+
 Baseball
+
 Coming Soon! Basketball
+
 Coming Soon! Football
 
 ---
 
 ## Resources
 
-This series is about more than sports — it’s about learning the core skills of analytics:
+SAS Workbench is a cloud-based, on-demand coding environment for data scientists and developers to build advanced models. You can access SAS Workbench here.
 
-- Accessing and querying data
-- Exploring and preparing raw datasets
-- Analyzing and visualizing results
-- Turning findings into stories and insights
+Lahman Baseball Database was created by Sean Lahman and contains complete and extensive major league statistics dating back to 1871. It is not necessary to download the full database, as extracts will be provided for you; however, it is available for download here.
+
+SQLite is a self-contained, serverless, transactional SQL database engine. Like the Lahman Database, it is not necessary to download it for this instructional series, but it is available for download here.
 
 Along the way, you’ll gain hands-on experience with tools used every day by analysts and data scientists, including **SAS**, **SQL**, **Python**, and **R**. You’ll follow the workflow professionals use: query data, extract datasets, import them into an analytics environment, and build reports, calculations, tables, and charts.
 
 ---
 
-## How Each Sport Section Works
-
-Each sport’s section will guide you through:
-
-- The history, context, and key figures of the game  
-- Datasets built from real sports data  
-- Exercises using SQL and SAS Workbench  
-- Visualizations and analytics that bring the numbers to life
-
 ---
 
-## Getting Started
 
-Whether you’re a student, a sports fan, or someone simply curious about data science, this series will help you develop skills that extend far beyond sports — skills you’ll use throughout your analytics journey.
-
-Open your laptop, choose your sport, and let’s explore the world of data together — from baseball to basketball and beyond.
