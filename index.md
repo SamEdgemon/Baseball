@@ -56,6 +56,7 @@ A series of blogs will be introduced regarding each sport and will reference the
 <br>
 
 ---
+<!--
 
 ## Resources
 
@@ -66,6 +67,8 @@ A series of blogs will be introduced regarding each sport and will reference the
 - **SQLite** is a self-contained, serverless, transactional SQL database engine. Like the Lahman Database, it is not necessary to download it for this instructional series, but it is available for download [here](https://sqlite.org/).
 
 ---
+
+-->
 
 
 
