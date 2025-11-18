@@ -7,6 +7,8 @@
 
 <br>
 
+<br>
+
 
 
 
@@ -39,6 +41,7 @@ Along the way, you’ll gain hands-on experience with tools used every day by an
 including **SAS**, **SQL**, **Python**, and **R** while working with real sports datasets and real-world workflows. 
 
 ---
+<!--
 
 ## Blog Posts
 
@@ -56,6 +59,8 @@ A series of blogs will be introduced regarding each sport and will reference the
 <!-- [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/) -->
 
 <br>
+
+-->
 
 ---
 <!--
