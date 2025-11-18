@@ -41,13 +41,22 @@ Along the way, you’ll gain hands-on experience with tools used every day by an
 
 ---
 
-## Choose Your Sport
+## Blog Posts
 
 A series of blogs will be introduced regarding each sport: each blog will 
 - The history, context, and key figures of the game  
 - Datasets built from real sports data  
 - Exercises using SQL and SAS Workbench  
 - Visualizations and analytics that bring the numbers to life
+
+- [Baseball](/baseball/index.md)
+- [Coming Soon! Basketball](Blog1_SlashStats/)
+- [Coming Soon! Football](Blog2_BaseballCardStats/)
+<!-- [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/) -->
+
+<br>
+
+
 
 Baseball
 
