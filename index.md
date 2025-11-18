@@ -49,7 +49,9 @@ A series of blogs will be introduced regarding each sport and will reference the
 - Visualizations and analytics that bring the numbers to life
 
 [Baseball Analytics](/baseball/index.md)
+
 [Coming Soon! Basketball](Blog1_SlashStats/)
+
 [Coming Soon! Football](Blog2_BaseballCardStats/)
 <!-- [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/) -->
 
