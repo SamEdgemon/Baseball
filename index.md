@@ -44,9 +44,9 @@ Below you’ll find the sports included in this series. Click a sport to view it
 
 - [Baseball Analytics](/baseball/index.md)
 
-- [Coming Soon! Basketball](Blog1_SlashStats/)
+- Coming Soon! Basketball <!-- [Coming Soon! Basketball](Blog1_SlashStats/) -->
 
-- [Coming Soon! Football](Blog2_BaseballCardStats/)
+- Coming Soon! Football   <!-- [Coming Soon! Football](Blog2_BaseballCardStats/) -->
 <!-- [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/) -->
 
 <br>
