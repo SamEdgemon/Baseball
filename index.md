@@ -20,36 +20,33 @@ Learn analytics and data science through the power of sports.
 
 **Welcome to the Sports Analytics Series** — a learning experience designed to help you think and work like a data scientist, using the world of sports as your training ground.
 
-If you’ve ever wondered what “analytics” really means — or if this is your first time seeing data science in action — you’re in the right place.
+Across this series, we’ll explore how data shapes the way we understand sports: how games are played, how players evolve, how decisions are made, and how strategies are built.
 
-Across this series, we’ll explore how data shapes the way we understand sports:
-how games are played, how players evolve, how decisions are made, and how strategies are built.
+You’ll learn through a sequence of blog posts that follow a consistent cadence. Together, we will:
 
-But this series is about more than sports — it’s about learning the core skills of analytics:
+- **Discover** the history of each sport by revisiting its innovators, key players, and defining moments
 
-- Accessing and querying data
-- Exploring and preparing raw datasets for analytics
-- Analyzing and visualizing results
-- Turning findings into actionable insights and data stories
+- **Access, query, and extract real sports data**
 
-Along the way, you’ll gain hands-on experience with tools used every day by analysts and data scientists, 
-including **SAS**, **SQL**, **Python**, and **R** while working with real sports datasets and real-world workflows. 
+- **Analyze and visualize** datasets through tables, charts, and comparisons
+
+- **Practice a full analytics workflow** — from raw information to clear, actionable insight
+
+Along the way, you’ll get hands-on experience with tools used every day by analysts and data scientists, including **SAS, SQL, Python, and R**, while working with real datasets and real-world examples.
+
+**Software and data will be provided** — everything you need to learn, practice, and explore.
 
 ---
 
-## Blog Posts
+## Blog Posts by Sport
 
-A series of blogs will be introduced regarding each sport and will reference the history of the game, data extracts from actual sports data,  
-- The history, context, and key figures of the game  
-- Datasets built from real sports data  
-- Exercises using SQL, SAS, Python, or R  
-- Visualizations and analytics that bring the numbers to life
+Below you’ll find the sports included in this series. Click a sport to view its blog posts, datasets, and exercises.
 
-[Baseball Analytics](/baseball/index.md)
+- [Baseball Analytics](/baseball/index.md)
 
-[Coming Soon! Basketball](Blog1_SlashStats/)
+- [Coming Soon! Basketball](Blog1_SlashStats/)
 
-[Coming Soon! Football](Blog2_BaseballCardStats/)
+- [Coming Soon! Football](Blog2_BaseballCardStats/)
 <!-- [Blog 3: Bill James and the Pythagorean Theorem](Blog3_Pythagorean/) -->
 
 <br>
