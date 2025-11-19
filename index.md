@@ -2,7 +2,7 @@
   <a href="/SportsAnalytics/">Home</a>  |
   <a href="/SportsAnalytics/About/">About</a>  |
   <a href="/SportsAnalytics/Contact/">Contact</a>  |
-  <a href="/SportsAnalytics/Baseball/">Baseball</a>
+  <a href="/SportsAnalytics/baseball/">Baseball</a>
 </p>
 
 <br>
