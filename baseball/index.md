@@ -22,15 +22,9 @@ But this series is about more than just baseball — it’s about learning to th
 
 **How We’ll Work With the Data**
 
-The data we’ll use comes from **Lahman’s Baseball Database**, a comprehensive collection of historical baseball data. You can explore it on your own, but for each exercise, I’ll provide a link to the exact dataset so you can download it and replicate the steps.
+Each post will follow a consistent cadence. We will
 
-I access data in different ways depending on the situation — sometimes from CSV files directly into a programming environment, and other times from SQL-based databases. For this series, we’ll be working with **SQLite**.
-
-We’ll **query the data using SQL**, export the results as CSV files, and then import them into **SAS Workbench**. In SAS, we’ll **process data, perform calculations, create reports, and visualize results** as tables and charts.
-
-Each post will follow a consistent pattern to make learning clear and practical:
-
-- **Explore** baseball history through the stories of innovators, players, and key moments
+- **Explore** the history of the game through its innovators, players, and key moments
 - **Access** data using SQL queries
 - **Process, analyze, and visualize** data using SAS
 - **Summarize** what we learned and see how it all comes together in SAS
