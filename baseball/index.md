@@ -2,10 +2,10 @@
 
 
 <p align="left">
-  <a href="/Baseball/">Home</a>  |
-  <a href="/Baseball/about/">About</a>  |
-  <a href="/Baseball/contact/">Contact</a>  |
-  <a href="/Baseball/baseball/">Baseball</a>
+  <a href="/SportsAnalytics/">Home</a>  |
+  <a href="/SportsAnalytics/About/">About</a>  |
+  <a href="/SportsAnalytics/Contact/">Contact</a>  |
+  <a href="/SportsAnalytics/baseball/">Baseball</a>
 </p>
 
 <br>
