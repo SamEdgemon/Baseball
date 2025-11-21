@@ -42,7 +42,7 @@ Along the way, you’ll get hands-on experience with tools used every day by ana
 
 Below you’ll find the sports included in this series. Click a sport to view its blog posts, datasets, and exercises.
 
-- [Baseball Analytics](/baseball/index.md)
+- [Baseball Analytics (Sabermetrics)](/baseball/index.md)
 
 - Coming Soon! Basketball <!-- [Coming Soon! Basketball](Blog1_SlashStats/) -->
 
