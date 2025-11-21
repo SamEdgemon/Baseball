@@ -1,4 +1,4 @@
-﻿# Calculating Baseball’s Slash Stats in SAS
+<!--﻿# Calculating Baseball’s Slash Stats in SAS-->
 ## A Tribute to the Game’s First Data Analyst
 
 Baseball fans today live by the “slash line” — that set of numbers showing a player’s **batting average, on-base percentage, and slugging percentage**. 
