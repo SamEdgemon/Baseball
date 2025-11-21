@@ -16,7 +16,7 @@ If you’ve ever wondered what “analytics” really means — or if this is yo
 
 In this series, we’ll explore the story of baseball through the lens of data. From the early days of box scores to today’s world of high-speed analytics, baseball has always been a game of numbers — measured, debated, and redefined through statistics. Together, we’ll see how data has described baseball’s past and continues to shape its future.
 
-But this series is about more than just baseball — it’s about learning to think and work like a data scientist. You’ll practice the core skills of a data scientist: accessing and querying data, exploring and analyzing it, visualizing results, and ultimately turning raw data into meaningful insights. Along the way, you’ll gain hands-on experience with SAS and SQL, two of the most powerful tools in analytics, while following the workflow that professional analysts use every day.
+But this series is about more than just baseball — it’s about learning to think and work like a data scientist. You’ll practice the core skills of a data scientist: accessing and querying data, exploring and analyzing it, visualizing results, and ultimately turning raw data into meaningful insights. Along the way, you’ll gain hands-on experience with some great analytical tools (like SAS, Python, R, and SQL).
 
 <br>
 
